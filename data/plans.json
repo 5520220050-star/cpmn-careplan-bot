@@ -1,0 +1,3808 @@
+[
+ {
+  "id": "2.1",
+  "title": "Pre-operative Care",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-1-pre-operative-care.pdf",
+  "aliases": [
+   "preop",
+   "pre op",
+   "before surgery",
+   "preoperative",
+   "قبل العملية",
+   "ما قبل العملية"
+  ]
+ },
+ {
+  "id": "2.2",
+  "title": "Post-operative Care",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-2-post-operative-care.pdf",
+  "aliases": [
+   "postop",
+   "post op",
+   "after surgery",
+   "postoperative",
+   "بعد العملية",
+   "ما بعد العملية"
+  ]
+ },
+ {
+  "id": "2.3",
+  "title": "Acute Pain",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-3-acute-pain.pdf",
+  "aliases": [
+   "pain",
+   "acute pain",
+   "الم حاد",
+   "الألم الحاد"
+  ]
+ },
+ {
+  "id": "2.4",
+  "title": "Chronic Pain",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-4-chronic-pain.pdf",
+  "aliases": [
+   "chronic pain",
+   "back pain",
+   "الم مزمن",
+   "الألم المزمن"
+  ]
+ },
+ {
+  "id": "2.5",
+  "title": "Immobility",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-5-immobility.pdf",
+  "aliases": [
+   "bed rest",
+   "bedridden",
+   "immobile",
+   "impaired mobility",
+   "عدم الحركة"
+  ]
+ },
+ {
+  "id": "2.6",
+  "title": "Risk for Falls",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-6-risk-for-falls.pdf",
+  "aliases": [
+   "falls",
+   "fall risk",
+   "fall prevention",
+   "السقوط",
+   "خطر السقوط"
+  ]
+ },
+ {
+  "id": "2.7",
+  "title": "Pressure Injury Prevention",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-7-pressure-injury-prevention.pdf",
+  "aliases": [
+   "bed sore",
+   "bedsore",
+   "pressure ulcer",
+   "decubitus",
+   "pressure sore",
+   "قرحة الفراش",
+   "قرح الفراش"
+  ]
+ },
+ {
+  "id": "2.8",
+  "title": "Infection and Isolation Precautions",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-8-infection-and-isolation-precautions.pdf",
+  "aliases": [
+   "isolation",
+   "infection control",
+   "contact precautions",
+   "MRSA",
+   "مكافحة العدوى",
+   "العزل"
+  ]
+ },
+ {
+  "id": "2.9",
+  "title": "Fever",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-9-fever.pdf",
+  "aliases": [
+   "pyrexia",
+   "hyperthermia",
+   "high temperature",
+   "fever",
+   "الحمى",
+   "حمى",
+   "ارتفاع الحرارة",
+   "سخونة"
+  ]
+ },
+ {
+  "id": "2.10",
+  "title": "Deficient Fluid Volume",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-10-deficient-fluid-volume.pdf",
+  "aliases": [
+   "dehydration",
+   "hypovolemia",
+   "fluid deficit",
+   "fluid loss",
+   "الجفاف",
+   "نقص السوائل"
+  ]
+ },
+ {
+  "id": "2.11",
+  "title": "Excess Fluid Volume",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-11-excess-fluid-volume.pdf",
+  "aliases": [
+   "fluid overload",
+   "hypervolemia",
+   "edema",
+   "oedema",
+   "زيادة السوائل",
+   "وذمة"
+  ]
+ },
+ {
+  "id": "2.12",
+  "title": "Electrolyte Imbalances",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-12-electrolyte-imbalances.pdf",
+  "aliases": [
+   "hypokalemia",
+   "hyperkalemia",
+   "hyponatremia",
+   "hypernatremia",
+   "potassium",
+   "sodium",
+   "electrolytes",
+   "الاملاح",
+   "الشوارد"
+  ]
+ },
+ {
+  "id": "2.13",
+  "title": "Acid–Base Imbalances",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-13-acid-base-imbalances.pdf",
+  "aliases": [
+   "acidosis",
+   "alkalosis",
+   "abg",
+   "acid base",
+   "respiratory acidosis",
+   "metabolic acidosis",
+   "الحماض"
+  ]
+ },
+ {
+  "id": "2.14",
+  "title": "Blood Transfusion",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-14-blood-transfusion.pdf",
+  "aliases": [
+   "transfusion",
+   "blood transfusion",
+   "transfusion reaction",
+   "نقل الدم"
+  ]
+ },
+ {
+  "id": "2.15",
+  "title": "IV Therapy and Central Venous Lines",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-15-iv-therapy-and-central-venous-lines.pdf",
+  "aliases": [
+   "iv",
+   "cannula",
+   "cvc",
+   "central line",
+   "picc",
+   "phlebitis",
+   "iv line",
+   "كانيولا",
+   "الكانيولا"
+  ]
+ },
+ {
+  "id": "2.16",
+  "title": "Enteral Tube Feeding",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-16-enteral-tube-feeding.pdf",
+  "aliases": [
+   "ng tube",
+   "nasogastric",
+   "tube feeding",
+   "peg",
+   "enteral nutrition",
+   "التغذية الانبوبية"
+  ]
+ },
+ {
+  "id": "2.17",
+  "title": "Total Parenteral Nutrition",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-17-total-parenteral-nutrition.pdf",
+  "aliases": [
+   "tpn",
+   "parenteral nutrition",
+   "التغذية الوريدية"
+  ]
+ },
+ {
+  "id": "2.18",
+  "title": "Nausea and Vomiting",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-18-nausea-and-vomiting.pdf",
+  "aliases": [
+   "vomiting",
+   "nausea",
+   "emesis",
+   "التقيؤ",
+   "الغثيان",
+   "استفراغ"
+  ]
+ },
+ {
+  "id": "2.19",
+  "title": "Altered Bowel Elimination: Constipation and Diarrhea",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-19-altered-bowel-elimination-constipation-and-diarrhea.pdf",
+  "aliases": [
+   "constipation",
+   "diarrhea",
+   "diarrhoea",
+   "bowel",
+   "الامساك",
+   "الاسهال"
+  ]
+ },
+ {
+  "id": "2.20",
+  "title": "Urinary Catheter Care",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-20-urinary-catheter-care.pdf",
+  "aliases": [
+   "foley",
+   "foley catheter",
+   "urinary catheter",
+   "catheter",
+   "cauti",
+   "القسطرة البولية",
+   "قسطرة"
+  ]
+ },
+ {
+  "id": "2.21",
+  "title": "Sleep Disturbance in Hospital",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-21-sleep-disturbance-in-hospital.pdf",
+  "aliases": [
+   "insomnia",
+   "sleep",
+   "sleep disturbance",
+   "الارق",
+   "اضطراب النوم"
+  ]
+ },
+ {
+  "id": "2.22",
+  "title": "Anxiety in the Hospitalized Patient",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-22-anxiety-in-the-hospitalized-patient.pdf",
+  "aliases": [
+   "anxiety",
+   "worried patient",
+   "fear",
+   "القلق"
+  ]
+ },
+ {
+  "id": "2.23",
+  "title": "Use of Physical Restraints",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-23-use-of-physical-restraints.pdf",
+  "aliases": [
+   "restraint",
+   "restraints",
+   "physical restraint",
+   "التقييد"
+  ]
+ },
+ {
+  "id": "2.24",
+  "title": "Discharge Planning",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-24-discharge-planning.pdf",
+  "aliases": [
+   "discharge",
+   "discharge teaching",
+   "التخريج",
+   "الخروج من المستشفى"
+  ]
+ },
+ {
+  "id": "2.25",
+  "title": "Palliative Care",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-25-palliative-care.pdf",
+  "aliases": [
+   "palliative",
+   "end of life",
+   "terminal illness",
+   "hospice",
+   "الرعاية التلطيفية"
+  ]
+ },
+ {
+  "id": "2.26",
+  "title": "Death and the Grieving Family",
+  "part": 2,
+  "part_title": "General Care Plans",
+  "file": "2-26-death-and-the-grieving-family.pdf",
+  "aliases": [
+   "death",
+   "grief",
+   "bereavement",
+   "dying patient",
+   "الوفاة",
+   "الحزن"
+  ]
+ },
+ {
+  "id": "3.1",
+  "title": "Pneumonia",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-1-pneumonia.pdf",
+  "aliases": [
+   "pneumonia",
+   "chest infection",
+   "lung infection",
+   "ذات الرئة",
+   "التهاب الرئة",
+   "التهاب رئوي"
+  ]
+ },
+ {
+  "id": "3.2",
+  "title": "Bronchial Asthma",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-2-bronchial-asthma.pdf",
+  "aliases": [
+   "asthma",
+   "bronchial asthma",
+   "wheeze",
+   "الربو"
+  ]
+ },
+ {
+  "id": "3.3",
+  "title": "Status Asthmaticus",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-3-status-asthmaticus.pdf",
+  "aliases": [
+   "severe asthma",
+   "acute severe asthma",
+   "status asthmaticus",
+   "نوبة ربو شديدة"
+  ]
+ },
+ {
+  "id": "3.4",
+  "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-4-chronic-obstructive-pulmonary-disease-copd.pdf",
+  "aliases": [
+   "copd",
+   "emphysema",
+   "chronic bronchitis",
+   "انسداد رئوي مزمن",
+   "الانسداد الرئوي"
+  ]
+ },
+ {
+  "id": "3.5",
+  "title": "Bronchiectasis",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-5-bronchiectasis.pdf",
+  "aliases": [
+   "bronchiectasis",
+   "توسع القصبات"
+  ]
+ },
+ {
+  "id": "3.6",
+  "title": "Pulmonary Tuberculosis",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-6-pulmonary-tuberculosis.pdf",
+  "aliases": [
+   "tb",
+   "tuberculosis",
+   "ptb",
+   "السل",
+   "التدرن"
+  ]
+ },
+ {
+  "id": "3.7",
+  "title": "Lung Cancer",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-7-lung-cancer.pdf",
+  "aliases": [
+   "lung cancer",
+   "lung tumor",
+   "lung tumour",
+   "bronchogenic carcinoma",
+   "سرطان الرئة"
+  ]
+ },
+ {
+  "id": "3.8",
+  "title": "Pleural Effusion",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-8-pleural-effusion.pdf",
+  "aliases": [
+   "pleural effusion",
+   "thoracentesis",
+   "thoracocentesis",
+   "الانصباب الجنبي"
+  ]
+ },
+ {
+  "id": "3.9",
+  "title": "Pneumothorax and Chest Drain",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-9-pneumothorax-and-chest-drain.pdf",
+  "aliases": [
+   "pneumothorax",
+   "chest tube",
+   "chest drain",
+   "ICD",
+   "underwater seal",
+   "استرواح الصدر"
+  ]
+ },
+ {
+  "id": "3.10",
+  "title": "Hemothorax",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-10-hemothorax.pdf",
+  "aliases": [
+   "hemothorax",
+   "haemothorax",
+   "تدمي الصدر"
+  ]
+ },
+ {
+  "id": "3.11",
+  "title": "Pulmonary Embolism",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-11-pulmonary-embolism.pdf",
+  "aliases": [
+   "pe",
+   "pulmonary embolism",
+   "pulmonary embolus",
+   "الانصمام الرئوي",
+   "جلطة رئوية"
+  ]
+ },
+ {
+  "id": "3.12",
+  "title": "Acute Respiratory Distress Syndrome (ARDS)",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-12-acute-respiratory-distress-syndrome-ards.pdf",
+  "aliases": [
+   "ards"
+  ]
+ },
+ {
+  "id": "3.13",
+  "title": "Acute Respiratory Failure",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-13-acute-respiratory-failure.pdf",
+  "aliases": [
+   "respiratory failure",
+   "type 2 respiratory failure",
+   "الفشل التنفسي"
+  ]
+ },
+ {
+  "id": "3.14",
+  "title": "Mechanical Ventilation",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-14-mechanical-ventilation.pdf",
+  "aliases": [
+   "ventilator",
+   "mechanical ventilation",
+   "intubation",
+   "ett",
+   "vap",
+   "التنفس الاصطناعي",
+   "جهاز التنفس"
+  ]
+ },
+ {
+  "id": "3.15",
+  "title": "Tracheostomy Care",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-15-tracheostomy-care.pdf",
+  "aliases": [
+   "tracheostomy",
+   "trach",
+   "trache",
+   "فغر الرغامى"
+  ]
+ },
+ {
+  "id": "3.16",
+  "title": "Thoracic Surgery (Lobectomy and Pneumonectomy)",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-16-thoracic-surgery-lobectomy-and-pneumonectomy.pdf",
+  "aliases": [
+   "lobectomy",
+   "pneumonectomy",
+   "thoracotomy",
+   "lung surgery"
+  ]
+ },
+ {
+  "id": "3.17",
+  "title": "Obstructive Sleep Apnea",
+  "part": 3,
+  "part_title": "Respiratory Care Plans",
+  "file": "3-17-obstructive-sleep-apnea.pdf",
+  "aliases": [
+   "osa",
+   "sleep apnea",
+   "sleep apnoea",
+   "snoring",
+   "انقطاع النفس النومي"
+  ]
+ },
+ {
+  "id": "4.1",
+  "title": "Hypertension",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-1-hypertension.pdf",
+  "aliases": [
+   "htn",
+   "high blood pressure",
+   "hypertension",
+   "ضغط الدم",
+   "ارتفاع ضغط الدم",
+   "الضغط"
+  ]
+ },
+ {
+  "id": "4.2",
+  "title": "Hypertensive Crisis",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-2-hypertensive-crisis.pdf",
+  "aliases": [
+   "hypertensive emergency",
+   "hypertensive urgency",
+   "malignant hypertension"
+  ]
+ },
+ {
+  "id": "4.3",
+  "title": "Angina Pectoris",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-3-angina-pectoris.pdf",
+  "aliases": [
+   "angina",
+   "chest pain",
+   "stable angina",
+   "الذبحة الصدرية"
+  ]
+ },
+ {
+  "id": "4.4",
+  "title": "Myocardial Infarction",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-4-myocardial-infarction.pdf",
+  "aliases": [
+   "mi",
+   "ami",
+   "heart attack",
+   "stemi",
+   "nstemi",
+   "acs",
+   "acute coronary syndrome",
+   "الجلطة القلبية",
+   "احتشاء عضلة القلب"
+  ]
+ },
+ {
+  "id": "4.5",
+  "title": "Heart Failure",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-5-heart-failure.pdf",
+  "aliases": [
+   "hf",
+   "chf",
+   "ccf",
+   "congestive heart failure",
+   "cardiac failure",
+   "عجز القلب",
+   "فشل القلب",
+   "قصور القلب"
+  ]
+ },
+ {
+  "id": "4.6",
+  "title": "Acute Pulmonary Edema",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-6-acute-pulmonary-edema.pdf",
+  "aliases": [
+   "pulmonary edema",
+   "pulmonary oedema",
+   "acute pulmonary oedema",
+   "apo",
+   "وذمة رئوية"
+  ]
+ },
+ {
+  "id": "4.7",
+  "title": "Cardiomyopathy",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-7-cardiomyopathy.pdf",
+  "aliases": [
+   "cardiomyopathy",
+   "dilated cardiomyopathy",
+   "اعتلال عضلة القلب"
+  ]
+ },
+ {
+  "id": "4.8",
+  "title": "Cardiac Dysrhythmias",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-8-cardiac-dysrhythmias.pdf",
+  "aliases": [
+   "arrhythmia",
+   "dysrhythmia",
+   "af",
+   "afib",
+   "atrial fibrillation",
+   "tachycardia",
+   "اضطراب نظم القلب",
+   "الرجفان الاذيني"
+  ]
+ },
+ {
+  "id": "4.9",
+  "title": "Permanent Pacemaker",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-9-permanent-pacemaker.pdf",
+  "aliases": [
+   "pacemaker",
+   "ppm",
+   "منظم ضربات القلب"
+  ]
+ },
+ {
+  "id": "4.10",
+  "title": "Infective Endocarditis",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-10-infective-endocarditis.pdf",
+  "aliases": [
+   "endocarditis",
+   "ie",
+   "التهاب الشغاف"
+  ]
+ },
+ {
+  "id": "4.11",
+  "title": "Pericarditis and Cardiac Tamponade",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-11-pericarditis-and-cardiac-tamponade.pdf",
+  "aliases": [
+   "pericarditis",
+   "tamponade",
+   "cardiac tamponade",
+   "pericardial effusion",
+   "التهاب التامور"
+  ]
+ },
+ {
+  "id": "4.12",
+  "title": "Valvular Heart Disease and Valve Replacement",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-12-valvular-heart-disease-and-valve-replacement.pdf",
+  "aliases": [
+   "valve replacement",
+   "mitral stenosis",
+   "aortic stenosis",
+   "valvular disease",
+   "صمامات القلب"
+  ]
+ },
+ {
+  "id": "4.13",
+  "title": "Coronary Artery Bypass Graft (CABG)",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-13-coronary-artery-bypass-graft-cabg.pdf",
+  "aliases": [
+   "cabg",
+   "bypass",
+   "open heart surgery",
+   "heart bypass",
+   "عملية القلب المفتوح"
+  ]
+ },
+ {
+  "id": "4.14",
+  "title": "Cardiac Catheterization and PCI",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-14-cardiac-catheterization-and-pci.pdf",
+  "aliases": [
+   "cath",
+   "cardiac cath",
+   "catheterization",
+   "catheterisation",
+   "pci",
+   "angiography",
+   "angioplasty",
+   "stent",
+   "قسطرة القلب",
+   "القسطرة القلبية"
+  ]
+ },
+ {
+  "id": "4.15",
+  "title": "Rheumatic Heart Disease",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-15-rheumatic-heart-disease.pdf",
+  "aliases": [
+   "rhd",
+   "rheumatic heart",
+   "الحمى الرثوية القلبية"
+  ]
+ },
+ {
+  "id": "4.16",
+  "title": "Peripheral Arterial Disease",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-16-peripheral-arterial-disease.pdf",
+  "aliases": [
+   "pad",
+   "pvd",
+   "peripheral vascular disease",
+   "claudication",
+   "peripheral artery disease"
+  ]
+ },
+ {
+  "id": "4.17",
+  "title": "Deep Vein Thrombosis",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-17-deep-vein-thrombosis.pdf",
+  "aliases": [
+   "dvt",
+   "deep venous thrombosis",
+   "leg clot",
+   "الخثار الوريدي",
+   "جلطة الساق"
+  ]
+ },
+ {
+  "id": "4.18",
+  "title": "Varicose Veins",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-18-varicose-veins.pdf",
+  "aliases": [
+   "varicose",
+   "varicose veins",
+   "دوالي الساقين",
+   "الدوالي"
+  ]
+ },
+ {
+  "id": "4.19",
+  "title": "Abdominal Aortic Aneurysm",
+  "part": 4,
+  "part_title": "Cardiovascular Care Plans",
+  "file": "4-19-abdominal-aortic-aneurysm.pdf",
+  "aliases": [
+   "aaa",
+   "aortic aneurysm",
+   "aneurysm",
+   "تمدد الشريان الابهر"
+  ]
+ },
+ {
+  "id": "5.1",
+  "title": "Stroke (Ischemic and Hemorrhagic)",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-1-stroke-ischemic-and-hemorrhagic.pdf",
+  "aliases": [
+   "cva",
+   "stroke",
+   "cerebrovascular accident",
+   "hemiplegia",
+   "الجلطة الدماغية",
+   "السكتة الدماغية"
+  ]
+ },
+ {
+  "id": "5.2",
+  "title": "Transient Ischemic Attack",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-2-transient-ischemic-attack.pdf",
+  "aliases": [
+   "tia",
+   "mini stroke",
+   "نوبة اقفارية عابرة"
+  ]
+ },
+ {
+  "id": "5.3",
+  "title": "Traumatic Brain Injury",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-3-traumatic-brain-injury.pdf",
+  "aliases": [
+   "tbi",
+   "head injury",
+   "head trauma",
+   "اصابة الراس",
+   "اصابات الراس"
+  ]
+ },
+ {
+  "id": "5.4",
+  "title": "Increased Intracranial Pressure",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-4-increased-intracranial-pressure.pdf",
+  "aliases": [
+   "icp",
+   "raised icp",
+   "intracranial hypertension",
+   "ارتفاع الضغط داخل القحف"
+  ]
+ },
+ {
+  "id": "5.5",
+  "title": "Craniotomy",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-5-craniotomy.pdf",
+  "aliases": [
+   "craniotomy",
+   "brain surgery",
+   "neurosurgery",
+   "حج القحف"
+  ]
+ },
+ {
+  "id": "5.6",
+  "title": "Brain Tumour",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-6-brain-tumour.pdf",
+  "aliases": [
+   "brain tumor",
+   "brain tumour",
+   "brain cancer",
+   "glioma",
+   "ورم الدماغ"
+  ]
+ },
+ {
+  "id": "5.7",
+  "title": "Epilepsy",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-7-epilepsy.pdf",
+  "aliases": [
+   "epilepsy",
+   "seizures",
+   "seizure disorder",
+   "fits",
+   "الصرع"
+  ]
+ },
+ {
+  "id": "5.8",
+  "title": "Status Epilepticus",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-8-status-epilepticus.pdf",
+  "aliases": [
+   "status epilepticus",
+   "continuous seizures",
+   "الحالة الصرعية"
+  ]
+ },
+ {
+  "id": "5.9",
+  "title": "Meningitis",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-9-meningitis.pdf",
+  "aliases": [
+   "meningitis",
+   "التهاب السحايا"
+  ]
+ },
+ {
+  "id": "5.10",
+  "title": "Encephalitis",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-10-encephalitis.pdf",
+  "aliases": [
+   "encephalitis",
+   "التهاب الدماغ"
+  ]
+ },
+ {
+  "id": "5.11",
+  "title": "Spinal Cord Injury",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-11-spinal-cord-injury.pdf",
+  "aliases": [
+   "sci",
+   "spinal injury",
+   "paraplegia",
+   "quadriplegia",
+   "tetraplegia",
+   "اصابة الحبل الشوكي"
+  ]
+ },
+ {
+  "id": "5.12",
+  "title": "Autonomic Dysreflexia",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-12-autonomic-dysreflexia.pdf",
+  "aliases": [
+   "autonomic hyperreflexia",
+   "dysreflexia"
+  ]
+ },
+ {
+  "id": "5.13",
+  "title": "Guillain-Barré Syndrome",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-13-guillain-barr-syndrome.pdf",
+  "aliases": [
+   "gbs",
+   "guillain barre",
+   "متلازمة غيلان باريه"
+  ]
+ },
+ {
+  "id": "5.14",
+  "title": "Myasthenia Gravis",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-14-myasthenia-gravis.pdf",
+  "aliases": [
+   "mg",
+   "myasthenia",
+   "الوهن العضلي"
+  ]
+ },
+ {
+  "id": "5.15",
+  "title": "Multiple Sclerosis",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-15-multiple-sclerosis.pdf",
+  "aliases": [
+   "ms",
+   "multiple sclerosis",
+   "التصلب المتعدد",
+   "التصلب اللويحي"
+  ]
+ },
+ {
+  "id": "5.16",
+  "title": "Parkinson's Disease",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-16-parkinsons-disease.pdf",
+  "aliases": [
+   "parkinson",
+   "parkinsons",
+   "باركنسون",
+   "الشلل الرعاش"
+  ]
+ },
+ {
+  "id": "5.17",
+  "title": "Dementia",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-17-dementia.pdf",
+  "aliases": [
+   "alzheimer",
+   "alzheimers",
+   "dementia",
+   "الخرف",
+   "الزهايمر"
+  ]
+ },
+ {
+  "id": "5.18",
+  "title": "Delirium",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-18-delirium.pdf",
+  "aliases": [
+   "delirium",
+   "acute confusion",
+   "confusion",
+   "الهذيان"
+  ]
+ },
+ {
+  "id": "5.19",
+  "title": "Herniated Disc and Laminectomy",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-19-herniated-disc-and-laminectomy.pdf",
+  "aliases": [
+   "disc prolapse",
+   "slipped disc",
+   "laminectomy",
+   "sciatica",
+   "herniated disk",
+   "الانزلاق الغضروفي",
+   "ديسك"
+  ]
+ },
+ {
+  "id": "5.20",
+  "title": "The Unconscious Patient",
+  "part": 5,
+  "part_title": "Neurological Care Plans",
+  "file": "5-20-the-unconscious-patient.pdf",
+  "aliases": [
+   "unconscious",
+   "coma",
+   "comatose",
+   "فاقد الوعي",
+   "الغيبوبة"
+  ]
+ },
+ {
+  "id": "6.1",
+  "title": "Gastroesophageal Reflux Disease (GERD)",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-1-gastroesophageal-reflux-disease-gerd.pdf",
+  "aliases": [
+   "gerd",
+   "gord",
+   "reflux",
+   "heartburn",
+   "الارتجاع",
+   "حرقة المعدة"
+  ]
+ },
+ {
+  "id": "6.2",
+  "title": "Gastritis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-2-gastritis.pdf",
+  "aliases": [
+   "gastritis",
+   "التهاب المعدة"
+  ]
+ },
+ {
+  "id": "6.3",
+  "title": "Peptic Ulcer Disease",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-3-peptic-ulcer-disease.pdf",
+  "aliases": [
+   "pud",
+   "peptic ulcer",
+   "gastric ulcer",
+   "duodenal ulcer",
+   "ulcer",
+   "قرحة المعدة",
+   "القرحة الهضمية"
+  ]
+ },
+ {
+  "id": "6.4",
+  "title": "Upper Gastrointestinal Bleeding",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-4-upper-gastrointestinal-bleeding.pdf",
+  "aliases": [
+   "gi bleeding",
+   "gi bleed",
+   "ugib",
+   "hematemesis",
+   "melena",
+   "upper gi bleed",
+   "نزف الجهاز الهضمي"
+  ]
+ },
+ {
+  "id": "6.5",
+  "title": "Esophageal Varices",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-5-esophageal-varices.pdf",
+  "aliases": [
+   "varices",
+   "esophageal varices",
+   "oesophageal varices",
+   "دوالي المريء"
+  ]
+ },
+ {
+  "id": "6.6",
+  "title": "Gastrectomy",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-6-gastrectomy.pdf",
+  "aliases": [
+   "gastrectomy",
+   "dumping syndrome",
+   "استئصال المعدة"
+  ]
+ },
+ {
+  "id": "6.7",
+  "title": "Crohn's Disease",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-7-crohns-disease.pdf",
+  "aliases": [
+   "crohn",
+   "crohns",
+   "ibd",
+   "داء كرون"
+  ]
+ },
+ {
+  "id": "6.8",
+  "title": "Ulcerative Colitis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-8-ulcerative-colitis.pdf",
+  "aliases": [
+   "uc",
+   "ulcerative colitis",
+   "colitis",
+   "التهاب القولون التقرحي"
+  ]
+ },
+ {
+  "id": "6.9",
+  "title": "Appendicitis and Appendectomy",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-9-appendicitis-and-appendectomy.pdf",
+  "aliases": [
+   "appendicitis",
+   "appendectomy",
+   "appendicectomy",
+   "appendix",
+   "الزائدة الدودية",
+   "الزايده"
+  ]
+ },
+ {
+  "id": "6.10",
+  "title": "Peritonitis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-10-peritonitis.pdf",
+  "aliases": [
+   "peritonitis",
+   "التهاب الصفاق",
+   "التهاب البريتون"
+  ]
+ },
+ {
+  "id": "6.11",
+  "title": "Intestinal Obstruction",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-11-intestinal-obstruction.pdf",
+  "aliases": [
+   "bowel obstruction",
+   "intestinal obstruction",
+   "ileus",
+   "انسداد الامعاء"
+  ]
+ },
+ {
+  "id": "6.12",
+  "title": "Hernia Repair",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-12-hernia-repair.pdf",
+  "aliases": [
+   "hernia",
+   "herniorrhaphy",
+   "inguinal hernia",
+   "الفتق"
+  ]
+ },
+ {
+  "id": "6.13",
+  "title": "Colorectal Cancer",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-13-colorectal-cancer.pdf",
+  "aliases": [
+   "colon cancer",
+   "bowel cancer",
+   "rectal cancer",
+   "crc",
+   "سرطان القولون"
+  ]
+ },
+ {
+  "id": "6.14",
+  "title": "Colostomy and Ileostomy",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-14-colostomy-and-ileostomy.pdf",
+  "aliases": [
+   "colostomy",
+   "ileostomy",
+   "stoma",
+   "ostomy",
+   "فغر القولون"
+  ]
+ },
+ {
+  "id": "6.15",
+  "title": "Hemorrhoids and Hemorrhoidectomy",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-15-hemorrhoids-and-hemorrhoidectomy.pdf",
+  "aliases": [
+   "hemorrhoids",
+   "haemorrhoids",
+   "piles",
+   "البواسير"
+  ]
+ },
+ {
+  "id": "6.16",
+  "title": "Cholecystitis and Cholecystectomy",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-16-cholecystitis-and-cholecystectomy.pdf",
+  "aliases": [
+   "cholecystitis",
+   "gallstones",
+   "cholecystectomy",
+   "gallbladder",
+   "lap chole",
+   "المرارة",
+   "حصى المرارة"
+  ]
+ },
+ {
+  "id": "6.17",
+  "title": "Acute Pancreatitis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-17-acute-pancreatitis.pdf",
+  "aliases": [
+   "acute pancreatitis",
+   "pancreatitis",
+   "التهاب البنكرياس الحاد"
+  ]
+ },
+ {
+  "id": "6.18",
+  "title": "Chronic Pancreatitis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-18-chronic-pancreatitis.pdf",
+  "aliases": [
+   "chronic pancreatitis",
+   "التهاب البنكرياس المزمن"
+  ]
+ },
+ {
+  "id": "6.19",
+  "title": "Viral Hepatitis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-19-viral-hepatitis.pdf",
+  "aliases": [
+   "hepatitis",
+   "hepatitis b",
+   "hepatitis c",
+   "hepatitis a",
+   "jaundice adult",
+   "التهاب الكبد",
+   "اليرقان"
+  ]
+ },
+ {
+  "id": "6.20",
+  "title": "Liver Cirrhosis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-20-liver-cirrhosis.pdf",
+  "aliases": [
+   "cirrhosis",
+   "liver cirrhosis",
+   "chronic liver disease",
+   "تشمع الكبد"
+  ]
+ },
+ {
+  "id": "6.21",
+  "title": "Hepatic Encephalopathy",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-21-hepatic-encephalopathy.pdf",
+  "aliases": [
+   "hepatic encephalopathy",
+   "he",
+   "اعتلال الدماغ الكبدي"
+  ]
+ },
+ {
+  "id": "6.22",
+  "title": "Ascites and Paracentesis",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-22-ascites-and-paracentesis.pdf",
+  "aliases": [
+   "ascites",
+   "paracentesis",
+   "الاستسقاء"
+  ]
+ },
+ {
+  "id": "6.23",
+  "title": "Bariatric Surgery",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-23-bariatric-surgery.pdf",
+  "aliases": [
+   "bariatric",
+   "sleeve gastrectomy",
+   "gastric bypass",
+   "obesity surgery",
+   "تكميم المعدة"
+  ]
+ },
+ {
+  "id": "6.24",
+  "title": "Malnutrition",
+  "part": 6,
+  "part_title": "Gastrointestinal Care Plans",
+  "file": "6-24-malnutrition.pdf",
+  "aliases": [
+   "malnutrition",
+   "undernutrition",
+   "refeeding syndrome",
+   "سوء التغذية"
+  ]
+ },
+ {
+  "id": "7.1",
+  "title": "Urinary Tract Infection",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-1-urinary-tract-infection.pdf",
+  "aliases": [
+   "uti",
+   "cystitis",
+   "urine infection",
+   "التهاب المسالك البولية"
+  ]
+ },
+ {
+  "id": "7.2",
+  "title": "Pyelonephritis",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-2-pyelonephritis.pdf",
+  "aliases": [
+   "pyelonephritis",
+   "kidney infection",
+   "التهاب الحويضة والكلية"
+  ]
+ },
+ {
+  "id": "7.3",
+  "title": "Acute Glomerulonephritis",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-3-acute-glomerulonephritis.pdf",
+  "aliases": [
+   "agn",
+   "glomerulonephritis",
+   "التهاب كبيبات الكلى"
+  ]
+ },
+ {
+  "id": "7.4",
+  "title": "Renal and Ureteric Calculi",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-4-renal-and-ureteric-calculi.pdf",
+  "aliases": [
+   "kidney stones",
+   "renal stones",
+   "renal colic",
+   "urolithiasis",
+   "nephrolithiasis",
+   "حصى الكلى",
+   "حصو الكلى"
+  ]
+ },
+ {
+  "id": "7.5",
+  "title": "Acute Kidney Injury",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-5-acute-kidney-injury.pdf",
+  "aliases": [
+   "aki",
+   "acute renal failure",
+   "arf",
+   "اصابة الكلى الحادة",
+   "الفشل الكلوي الحاد"
+  ]
+ },
+ {
+  "id": "7.6",
+  "title": "Chronic Kidney Disease",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-6-chronic-kidney-disease.pdf",
+  "aliases": [
+   "ckd",
+   "chronic renal failure",
+   "crf",
+   "esrd",
+   "الفشل الكلوي المزمن"
+  ]
+ },
+ {
+  "id": "7.7",
+  "title": "Hemodialysis",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-7-hemodialysis.pdf",
+  "aliases": [
+   "hd",
+   "dialysis",
+   "hemodialysis",
+   "haemodialysis",
+   "غسيل الكلى",
+   "الديلزة"
+  ]
+ },
+ {
+  "id": "7.8",
+  "title": "Peritoneal Dialysis",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-8-peritoneal-dialysis.pdf",
+  "aliases": [
+   "pd",
+   "peritoneal dialysis",
+   "capd",
+   "الغسيل البريتوني"
+  ]
+ },
+ {
+  "id": "7.9",
+  "title": "Arteriovenous Fistula Care",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-9-arteriovenous-fistula-care.pdf",
+  "aliases": [
+   "av fistula",
+   "avf",
+   "fistula",
+   "الناسور الشرياني الوريدي"
+  ]
+ },
+ {
+  "id": "7.10",
+  "title": "Kidney Transplant",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-10-kidney-transplant.pdf",
+  "aliases": [
+   "renal transplant",
+   "kidney transplant",
+   "زراعة الكلى"
+  ]
+ },
+ {
+  "id": "7.11",
+  "title": "Benign Prostatic Hyperplasia and TURP",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-11-benign-prostatic-hyperplasia-and-turp.pdf",
+  "aliases": [
+   "bph",
+   "turp",
+   "enlarged prostate",
+   "prostate enlargement",
+   "تضخم البروستات"
+  ]
+ },
+ {
+  "id": "7.12",
+  "title": "Bladder Cancer and Urinary Diversion",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-12-bladder-cancer-and-urinary-diversion.pdf",
+  "aliases": [
+   "bladder cancer",
+   "ileal conduit",
+   "urostomy",
+   "cystectomy",
+   "سرطان المثانة"
+  ]
+ },
+ {
+  "id": "7.13",
+  "title": "Urinary Incontinence",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-13-urinary-incontinence.pdf",
+  "aliases": [
+   "incontinence",
+   "urinary incontinence",
+   "stress incontinence",
+   "سلس البول"
+  ]
+ },
+ {
+  "id": "7.14",
+  "title": "Urinary Retention",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-14-urinary-retention.pdf",
+  "aliases": [
+   "urinary retention",
+   "retention",
+   "احتباس البول"
+  ]
+ },
+ {
+  "id": "7.15",
+  "title": "Nephrectomy",
+  "part": 7,
+  "part_title": "Renal and Urinary Care Plans",
+  "file": "7-15-nephrectomy.pdf",
+  "aliases": [
+   "nephrectomy",
+   "kidney removal",
+   "استئصال الكلية"
+  ]
+ },
+ {
+  "id": "8.1",
+  "title": "Type 1 Diabetes Mellitus",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-1-type-1-diabetes-mellitus.pdf",
+  "aliases": [
+   "t1dm",
+   "type 1 diabetes",
+   "iddm",
+   "dm1",
+   "diabetes type 1",
+   "السكري النوع الاول"
+  ]
+ },
+ {
+  "id": "8.2",
+  "title": "Type 2 Diabetes Mellitus",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-2-type-2-diabetes-mellitus.pdf",
+  "aliases": [
+   "t2dm",
+   "type 2 diabetes",
+   "niddm",
+   "dm2",
+   "diabetes",
+   "dm",
+   "diabetes type 2",
+   "السكري",
+   "السكري النوع الثاني",
+   "داء السكري"
+  ]
+ },
+ {
+  "id": "8.3",
+  "title": "Diabetic Ketoacidosis",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-3-diabetic-ketoacidosis.pdf",
+  "aliases": [
+   "dka",
+   "ketoacidosis",
+   "الحماض الكيتوني"
+  ]
+ },
+ {
+  "id": "8.4",
+  "title": "Hyperosmolar Hyperglycemic State",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-4-hyperosmolar-hyperglycemic-state.pdf",
+  "aliases": [
+   "hhs",
+   "hhns",
+   "honk",
+   "hyperosmolar"
+  ]
+ },
+ {
+  "id": "8.5",
+  "title": "Hypoglycemia",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-5-hypoglycemia.pdf",
+  "aliases": [
+   "hypo",
+   "hypoglycaemia",
+   "low blood sugar",
+   "low sugar",
+   "انخفاض السكر",
+   "هبوط السكر"
+  ]
+ },
+ {
+  "id": "8.6",
+  "title": "Diabetic Foot Ulcer",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-6-diabetic-foot-ulcer.pdf",
+  "aliases": [
+   "diabetic foot",
+   "foot ulcer",
+   "القدم السكرية"
+  ]
+ },
+ {
+  "id": "8.7",
+  "title": "Hyperthyroidism and Thyroidectomy",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-7-hyperthyroidism-and-thyroidectomy.pdf",
+  "aliases": [
+   "hyperthyroidism",
+   "graves",
+   "thyroidectomy",
+   "thyrotoxicosis",
+   "فرط الدرقية",
+   "استئصال الغدة الدرقية"
+  ]
+ },
+ {
+  "id": "8.8",
+  "title": "Thyroid Storm",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-8-thyroid-storm.pdf",
+  "aliases": [
+   "thyroid storm",
+   "thyrotoxic crisis",
+   "العاصفة الدرقية"
+  ]
+ },
+ {
+  "id": "8.9",
+  "title": "Hypothyroidism",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-9-hypothyroidism.pdf",
+  "aliases": [
+   "hypothyroidism",
+   "myxedema",
+   "قصور الغدة الدرقية"
+  ]
+ },
+ {
+  "id": "8.10",
+  "title": "Cushing's Syndrome",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-10-cushings-syndrome.pdf",
+  "aliases": [
+   "cushing",
+   "cushings",
+   "متلازمة كوشينغ"
+  ]
+ },
+ {
+  "id": "8.11",
+  "title": "Addison's Disease and Adrenal Crisis",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-11-addisons-disease-and-adrenal-crisis.pdf",
+  "aliases": [
+   "addison",
+   "addisons",
+   "adrenal crisis",
+   "adrenal insufficiency",
+   "داء اديسون"
+  ]
+ },
+ {
+  "id": "8.12",
+  "title": "Syndrome of Inappropriate ADH (SIADH)",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-12-syndrome-of-inappropriate-adh-siadh.pdf",
+  "aliases": [
+   "siadh"
+  ]
+ },
+ {
+  "id": "8.13",
+  "title": "Diabetes Insipidus",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-13-diabetes-insipidus.pdf",
+  "aliases": [
+   "di",
+   "diabetes insipidus",
+   "السكري الكاذب",
+   "البوالة التفهة"
+  ]
+ },
+ {
+  "id": "8.14",
+  "title": "Pituitary Surgery (Transsphenoidal)",
+  "part": 8,
+  "part_title": "Endocrine Care Plans",
+  "file": "8-14-pituitary-surgery-transsphenoidal.pdf",
+  "aliases": [
+   "pituitary surgery",
+   "transsphenoidal",
+   "hypophysectomy",
+   "pituitary tumor"
+  ]
+ },
+ {
+  "id": "9.1",
+  "title": "Fractures",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-1-fractures.pdf",
+  "aliases": [
+   "fracture",
+   "broken bone",
+   "الكسور",
+   "كسر"
+  ]
+ },
+ {
+  "id": "9.2",
+  "title": "Cast Care",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-2-cast-care.pdf",
+  "aliases": [
+   "cast",
+   "plaster",
+   "plaster cast",
+   "الجبس",
+   "الجبيرة"
+  ]
+ },
+ {
+  "id": "9.3",
+  "title": "Traction",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-3-traction.pdf",
+  "aliases": [
+   "traction",
+   "skeletal traction",
+   "skin traction",
+   "الشد"
+  ]
+ },
+ {
+  "id": "9.4",
+  "title": "External Fixator",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-4-external-fixator.pdf",
+  "aliases": [
+   "external fixator",
+   "ex fix",
+   "exfix",
+   "المثبت الخارجي"
+  ]
+ },
+ {
+  "id": "9.5",
+  "title": "Hip Fracture and Internal Fixation",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-5-hip-fracture-and-internal-fixation.pdf",
+  "aliases": [
+   "hip fracture",
+   "neck of femur",
+   "nof",
+   "fractured neck of femur",
+   "كسر الورك"
+  ]
+ },
+ {
+  "id": "9.6",
+  "title": "Total Hip Replacement",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-6-total-hip-replacement.pdf",
+  "aliases": [
+   "thr",
+   "hip replacement",
+   "hip arthroplasty",
+   "تبديل مفصل الورك"
+  ]
+ },
+ {
+  "id": "9.7",
+  "title": "Total Knee Replacement",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-7-total-knee-replacement.pdf",
+  "aliases": [
+   "tkr",
+   "knee replacement",
+   "knee arthroplasty",
+   "tka",
+   "تبديل مفصل الركبة"
+  ]
+ },
+ {
+  "id": "9.8",
+  "title": "Amputation",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-8-amputation.pdf",
+  "aliases": [
+   "amputation",
+   "aka",
+   "bka",
+   "stump",
+   "phantom limb",
+   "البتر"
+  ]
+ },
+ {
+  "id": "9.9",
+  "title": "Osteoporosis",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-9-osteoporosis.pdf",
+  "aliases": [
+   "osteoporosis",
+   "هشاشة العظام"
+  ]
+ },
+ {
+  "id": "9.10",
+  "title": "Osteoarthritis",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-10-osteoarthritis.pdf",
+  "aliases": [
+   "oa",
+   "osteoarthritis",
+   "الفصال العظمي",
+   "خشونة الركبة"
+  ]
+ },
+ {
+  "id": "9.11",
+  "title": "Rheumatoid Arthritis",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-11-rheumatoid-arthritis.pdf",
+  "aliases": [
+   "ra",
+   "rheumatoid",
+   "rheumatoid arthritis",
+   "التهاب المفاصل الروماتويدي",
+   "الروماتيزم"
+  ]
+ },
+ {
+  "id": "9.12",
+  "title": "Gout",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-12-gout.pdf",
+  "aliases": [
+   "gout",
+   "النقرس"
+  ]
+ },
+ {
+  "id": "9.13",
+  "title": "Osteomyelitis",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-13-osteomyelitis.pdf",
+  "aliases": [
+   "osteomyelitis",
+   "bone infection",
+   "التهاب العظم"
+  ]
+ },
+ {
+  "id": "9.14",
+  "title": "Compartment Syndrome",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-14-compartment-syndrome.pdf",
+  "aliases": [
+   "compartment syndrome",
+   "fasciotomy",
+   "متلازمة الحيز"
+  ]
+ },
+ {
+  "id": "9.15",
+  "title": "Fat Embolism Syndrome",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-15-fat-embolism-syndrome.pdf",
+  "aliases": [
+   "fat embolism",
+   "fes",
+   "الانصمام الدهني"
+  ]
+ },
+ {
+  "id": "9.16",
+  "title": "Spinal Fusion",
+  "part": 9,
+  "part_title": "Musculoskeletal Care Plans",
+  "file": "9-16-spinal-fusion.pdf",
+  "aliases": [
+   "spinal fusion",
+   "spine surgery",
+   "back surgery"
+  ]
+ },
+ {
+  "id": "10.1",
+  "title": "Iron-Deficiency Anemia",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-1-iron-deficiency-anemia.pdf",
+  "aliases": [
+   "anemia",
+   "anaemia",
+   "ida",
+   "iron deficiency",
+   "فقر الدم",
+   "فقر الدم بعوز الحديد"
+  ]
+ },
+ {
+  "id": "10.2",
+  "title": "Sickle Cell Crisis",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-2-sickle-cell-crisis.pdf",
+  "aliases": [
+   "sickle cell",
+   "sickle cell disease",
+   "scd",
+   "sickle crisis",
+   "فقر الدم المنجلي"
+  ]
+ },
+ {
+  "id": "10.3",
+  "title": "Thalassemia in Adults",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-3-thalassemia-in-adults.pdf",
+  "aliases": [
+   "thalassemia",
+   "thalassaemia",
+   "الثلاسيميا"
+  ]
+ },
+ {
+  "id": "10.4",
+  "title": "Aplastic Anemia",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-4-aplastic-anemia.pdf",
+  "aliases": [
+   "aplastic anemia",
+   "aplastic anaemia",
+   "فقر الدم اللاتنسجي"
+  ]
+ },
+ {
+  "id": "10.5",
+  "title": "Leukemia",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-5-leukemia.pdf",
+  "aliases": [
+   "leukemia",
+   "leukaemia",
+   "aml",
+   "cml",
+   "cll",
+   "blood cancer",
+   "ابيضاض الدم",
+   "سرطان الدم",
+   "اللوكيميا"
+  ]
+ },
+ {
+  "id": "10.6",
+  "title": "Lymphoma",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-6-lymphoma.pdf",
+  "aliases": [
+   "lymphoma",
+   "hodgkin",
+   "nhl",
+   "اللمفوما"
+  ]
+ },
+ {
+  "id": "10.7",
+  "title": "Disseminated Intravascular Coagulation (DIC)",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-7-disseminated-intravascular-coagulation-dic.pdf",
+  "aliases": [
+   "dic"
+  ]
+ },
+ {
+  "id": "10.8",
+  "title": "Thrombocytopenia",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-8-thrombocytopenia.pdf",
+  "aliases": [
+   "thrombocytopenia",
+   "low platelets",
+   "itp",
+   "قلة الصفيحات"
+  ]
+ },
+ {
+  "id": "10.9",
+  "title": "Hemophilia",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-9-hemophilia.pdf",
+  "aliases": [
+   "hemophilia",
+   "haemophilia",
+   "الناعور",
+   "الهيموفيليا"
+  ]
+ },
+ {
+  "id": "10.10",
+  "title": "The Neutropenic Patient",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-10-the-neutropenic-patient.pdf",
+  "aliases": [
+   "neutropenia",
+   "neutropenic",
+   "febrile neutropenia",
+   "قلة العدلات"
+  ]
+ },
+ {
+  "id": "10.11",
+  "title": "HIV Infection and AIDS",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-11-hiv-infection-and-aids.pdf",
+  "aliases": [
+   "hiv",
+   "aids",
+   "الايدز"
+  ]
+ },
+ {
+  "id": "10.12",
+  "title": "Systemic Lupus Erythematosus",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-12-systemic-lupus-erythematosus.pdf",
+  "aliases": [
+   "sle",
+   "lupus",
+   "الذئبة الحمراء"
+  ]
+ },
+ {
+  "id": "10.13",
+  "title": "Anaphylaxis",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-13-anaphylaxis.pdf",
+  "aliases": [
+   "anaphylaxis",
+   "anaphylactic shock",
+   "allergic reaction",
+   "allergy",
+   "الحساسية المفرطة",
+   "صدمة تحسسية"
+  ]
+ },
+ {
+  "id": "10.14",
+  "title": "Chemotherapy",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-14-chemotherapy.pdf",
+  "aliases": [
+   "chemo",
+   "chemotherapy",
+   "العلاج الكيميائي",
+   "الكيمياوي"
+  ]
+ },
+ {
+  "id": "10.15",
+  "title": "Radiotherapy",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-15-radiotherapy.pdf",
+  "aliases": [
+   "radiation",
+   "radiation therapy",
+   "radiotherapy",
+   "العلاج الاشعاعي"
+  ]
+ },
+ {
+  "id": "10.16",
+  "title": "Bone Marrow (Stem Cell) Transplant",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-16-bone-marrow-stem-cell-transplant.pdf",
+  "aliases": [
+   "bmt",
+   "stem cell transplant",
+   "hsct",
+   "زراعة نخاع العظم"
+  ]
+ },
+ {
+  "id": "10.17",
+  "title": "Breast Cancer and Mastectomy",
+  "part": 10,
+  "part_title": "Hematology, Immunology and Oncology Care Plans",
+  "file": "10-17-breast-cancer-and-mastectomy.pdf",
+  "aliases": [
+   "breast cancer",
+   "mastectomy",
+   "سرطان الثدي",
+   "استئصال الثدي"
+  ]
+ },
+ {
+  "id": "11.1",
+  "title": "Burns (Acute Phase)",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-1-burns-acute-phase.pdf",
+  "aliases": [
+   "burns",
+   "burn",
+   "acute burns",
+   "الحروق",
+   "حروق"
+  ]
+ },
+ {
+  "id": "11.2",
+  "title": "Burns (Rehabilitation Phase)",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-2-burns-rehabilitation-phase.pdf",
+  "aliases": [
+   "burn rehabilitation",
+   "burn contracture",
+   "burn scars"
+  ]
+ },
+ {
+  "id": "11.3",
+  "title": "Pressure Injury Management",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-3-pressure-injury-management.pdf",
+  "aliases": [
+   "pressure ulcer management",
+   "pressure injury",
+   "bed sore treatment",
+   "stage 3 pressure ulcer"
+  ]
+ },
+ {
+  "id": "11.4",
+  "title": "Surgical Wound Care",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-4-surgical-wound-care.pdf",
+  "aliases": [
+   "wound care",
+   "wound infection",
+   "surgical wound",
+   "ssi",
+   "dehiscence",
+   "العناية بالجروح"
+  ]
+ },
+ {
+  "id": "11.5",
+  "title": "Cellulitis",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-5-cellulitis.pdf",
+  "aliases": [
+   "cellulitis",
+   "التهاب النسيج الخلوي"
+  ]
+ },
+ {
+  "id": "11.6",
+  "title": "Diabetic and Venous Leg Ulcers",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-6-diabetic-and-venous-leg-ulcers.pdf",
+  "aliases": [
+   "leg ulcer",
+   "venous ulcer",
+   "venous leg ulcer",
+   "قرحة الساق"
+  ]
+ },
+ {
+  "id": "11.7",
+  "title": "Skin Grafts",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-7-skin-grafts.pdf",
+  "aliases": [
+   "skin graft",
+   "graft",
+   "donor site",
+   "ترقيع الجلد"
+  ]
+ },
+ {
+  "id": "11.8",
+  "title": "Herpes Zoster (Shingles)",
+  "part": 11,
+  "part_title": "Integumentary Care Plans",
+  "file": "11-8-herpes-zoster-shingles.pdf",
+  "aliases": [
+   "shingles",
+   "herpes zoster",
+   "zoster",
+   "الحزام الناري"
+  ]
+ },
+ {
+  "id": "12.1",
+  "title": "Cataract Surgery",
+  "part": 12,
+  "part_title": "Eye and ENT Care Plans",
+  "file": "12-1-cataract-surgery.pdf",
+  "aliases": [
+   "cataract",
+   "الماء الابيض",
+   "الساد"
+  ]
+ },
+ {
+  "id": "12.2",
+  "title": "Glaucoma",
+  "part": 12,
+  "part_title": "Eye and ENT Care Plans",
+  "file": "12-2-glaucoma.pdf",
+  "aliases": [
+   "glaucoma",
+   "الماء الازرق",
+   "الزرق"
+  ]
+ },
+ {
+  "id": "12.3",
+  "title": "Retinal Detachment",
+  "part": 12,
+  "part_title": "Eye and ENT Care Plans",
+  "file": "12-3-retinal-detachment.pdf",
+  "aliases": [
+   "retinal detachment",
+   "انفصال الشبكية"
+  ]
+ },
+ {
+  "id": "12.4",
+  "title": "Tonsillectomy (Adult)",
+  "part": 12,
+  "part_title": "Eye and ENT Care Plans",
+  "file": "12-4-tonsillectomy-adult.pdf",
+  "aliases": [
+   "tonsillectomy",
+   "tonsils",
+   "اللوزتين",
+   "استئصال اللوزتين"
+  ]
+ },
+ {
+  "id": "12.5",
+  "title": "Laryngectomy",
+  "part": 12,
+  "part_title": "Eye and ENT Care Plans",
+  "file": "12-5-laryngectomy.pdf",
+  "aliases": [
+   "laryngectomy",
+   "استئصال الحنجرة"
+  ]
+ },
+ {
+  "id": "12.6",
+  "title": "Head and Neck Cancer",
+  "part": 12,
+  "part_title": "Eye and ENT Care Plans",
+  "file": "12-6-head-and-neck-cancer.pdf",
+  "aliases": [
+   "head and neck cancer",
+   "oral cancer",
+   "throat cancer",
+   "سرطان الراس والعنق"
+  ]
+ },
+ {
+  "id": "13.1",
+  "title": "Hysterectomy",
+  "part": 13,
+  "part_title": "Gynecological and Men's Health Care Plans",
+  "file": "13-1-hysterectomy.pdf",
+  "aliases": [
+   "hysterectomy",
+   "استئصال الرحم"
+  ]
+ },
+ {
+  "id": "13.2",
+  "title": "Cervical and Ovarian Cancer",
+  "part": 13,
+  "part_title": "Gynecological and Men's Health Care Plans",
+  "file": "13-2-cervical-and-ovarian-cancer.pdf",
+  "aliases": [
+   "cervical cancer",
+   "ovarian cancer",
+   "سرطان عنق الرحم",
+   "سرطان المبيض"
+  ]
+ },
+ {
+  "id": "13.3",
+  "title": "Endometriosis",
+  "part": 13,
+  "part_title": "Gynecological and Men's Health Care Plans",
+  "file": "13-3-endometriosis.pdf",
+  "aliases": [
+   "endometriosis",
+   "بطانة الرحم المهاجرة"
+  ]
+ },
+ {
+  "id": "13.4",
+  "title": "Pelvic Inflammatory Disease",
+  "part": 13,
+  "part_title": "Gynecological and Men's Health Care Plans",
+  "file": "13-4-pelvic-inflammatory-disease.pdf",
+  "aliases": [
+   "pid",
+   "pelvic infection",
+   "التهاب الحوض"
+  ]
+ },
+ {
+  "id": "13.5",
+  "title": "Prostate Cancer and Prostatectomy",
+  "part": 13,
+  "part_title": "Gynecological and Men's Health Care Plans",
+  "file": "13-5-prostate-cancer-and-prostatectomy.pdf",
+  "aliases": [
+   "prostate cancer",
+   "prostatectomy",
+   "سرطان البروستات"
+  ]
+ },
+ {
+  "id": "13.6",
+  "title": "Sexually Transmitted Infections",
+  "part": 13,
+  "part_title": "Gynecological and Men's Health Care Plans",
+  "file": "13-6-sexually-transmitted-infections.pdf",
+  "aliases": [
+   "sti",
+   "std",
+   "gonorrhea",
+   "chlamydia",
+   "syphilis",
+   "الامراض المنقولة جنسيا"
+  ]
+ },
+ {
+  "id": "14.1",
+  "title": "Hypovolemic Shock",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-1-hypovolemic-shock.pdf",
+  "aliases": [
+   "hypovolemic shock",
+   "hypovolaemic shock",
+   "hemorrhagic shock",
+   "shock",
+   "صدمة نقص الحجم",
+   "الصدمة"
+  ]
+ },
+ {
+  "id": "14.2",
+  "title": "Sepsis and Septic Shock",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-2-sepsis-and-septic-shock.pdf",
+  "aliases": [
+   "sepsis",
+   "septic shock",
+   "الانتان",
+   "تعفن الدم",
+   "الصدمة الانتانية"
+  ]
+ },
+ {
+  "id": "14.3",
+  "title": "Cardiogenic Shock",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-3-cardiogenic-shock.pdf",
+  "aliases": [
+   "cardiogenic shock",
+   "الصدمة القلبية"
+  ]
+ },
+ {
+  "id": "14.4",
+  "title": "Neurogenic Shock",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-4-neurogenic-shock.pdf",
+  "aliases": [
+   "neurogenic shock",
+   "الصدمة العصبية"
+  ]
+ },
+ {
+  "id": "14.5",
+  "title": "Cardiac Arrest and Post-Resuscitation Care",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-5-cardiac-arrest-and-post-resuscitation-care.pdf",
+  "aliases": [
+   "cardiac arrest",
+   "cpr",
+   "resuscitation",
+   "rosc",
+   "post resuscitation",
+   "السكتة القلبية",
+   "توقف القلب",
+   "الانعاش"
+  ]
+ },
+ {
+  "id": "14.6",
+  "title": "Multiple Trauma",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-6-multiple-trauma.pdf",
+  "aliases": [
+   "polytrauma",
+   "multiple trauma",
+   "trauma",
+   "rta",
+   "road traffic accident",
+   "الاصابات المتعددة",
+   "حادث سير"
+  ]
+ },
+ {
+  "id": "14.7",
+  "title": "Chest Trauma (Rib Fractures and Flail Chest)",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-7-chest-trauma-rib-fractures-and-flail-chest.pdf",
+  "aliases": [
+   "flail chest",
+   "rib fracture",
+   "rib fractures",
+   "chest trauma",
+   "chest injury",
+   "كسور الاضلاع"
+  ]
+ },
+ {
+  "id": "14.8",
+  "title": "Abdominal Trauma",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-8-abdominal-trauma.pdf",
+  "aliases": [
+   "abdominal trauma",
+   "abdominal injury",
+   "splenic injury",
+   "liver laceration",
+   "اصابة البطن"
+  ]
+ },
+ {
+  "id": "14.9",
+  "title": "Multiple Organ Dysfunction Syndrome (MODS)",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-9-multiple-organ-dysfunction-syndrome-mods.pdf",
+  "aliases": [
+   "mods",
+   "multi organ failure",
+   "mof",
+   "multiorgan failure",
+   "فشل الاعضاء المتعدد"
+  ]
+ },
+ {
+  "id": "14.10",
+  "title": "Poisoning and Drug Overdose",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-10-poisoning-and-drug-overdose.pdf",
+  "aliases": [
+   "overdose",
+   "poisoning",
+   "drug overdose",
+   "opioid overdose",
+   "التسمم",
+   "الجرعة الزائدة"
+  ]
+ },
+ {
+  "id": "14.11",
+  "title": "Heat Stroke",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-11-heat-stroke.pdf",
+  "aliases": [
+   "heat stroke",
+   "heatstroke",
+   "hyperthermia heat",
+   "ضربة الشمس",
+   "ضربة الحر"
+  ]
+ },
+ {
+  "id": "14.12",
+  "title": "Accidental Hypothermia",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-12-accidental-hypothermia.pdf",
+  "aliases": [
+   "hypothermia",
+   "cold exposure",
+   "انخفاض حرارة الجسم"
+  ]
+ },
+ {
+  "id": "14.13",
+  "title": "Drowning",
+  "part": 14,
+  "part_title": "Critical Care and Emergency Care Plans",
+  "file": "14-13-drowning.pdf",
+  "aliases": [
+   "drowning",
+   "near drowning",
+   "الغرق"
+  ]
+ },
+ {
+  "id": "15.1",
+  "title": "Antenatal Care",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-1-antenatal-care.pdf",
+  "aliases": [
+   "antenatal",
+   "prenatal",
+   "anc",
+   "pregnancy",
+   "pregnant",
+   "رعاية الحامل",
+   "الحمل"
+  ]
+ },
+ {
+  "id": "15.2",
+  "title": "Hyperemesis Gravidarum",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-2-hyperemesis-gravidarum.pdf",
+  "aliases": [
+   "hyperemesis",
+   "hyperemesis gravidarum",
+   "morning sickness severe",
+   "تقيؤ الحمل"
+  ]
+ },
+ {
+  "id": "15.3",
+  "title": "Miscarriage (Spontaneous Abortion)",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-3-miscarriage-spontaneous-abortion.pdf",
+  "aliases": [
+   "miscarriage",
+   "abortion",
+   "spontaneous abortion",
+   "الاجهاض"
+  ]
+ },
+ {
+  "id": "15.4",
+  "title": "Ectopic Pregnancy",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-4-ectopic-pregnancy.pdf",
+  "aliases": [
+   "ectopic",
+   "ectopic pregnancy",
+   "tubal pregnancy",
+   "الحمل خارج الرحم"
+  ]
+ },
+ {
+  "id": "15.5",
+  "title": "Placenta Previa",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-5-placenta-previa.pdf",
+  "aliases": [
+   "placenta previa",
+   "placenta praevia",
+   "المشيمة المنزاحة",
+   "المشيمة المتقدمة"
+  ]
+ },
+ {
+  "id": "15.6",
+  "title": "Placental Abruption",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-6-placental-abruption.pdf",
+  "aliases": [
+   "abruption",
+   "placental abruption",
+   "abruptio placentae",
+   "انفصال المشيمة"
+  ]
+ },
+ {
+  "id": "15.7",
+  "title": "Gestational Hypertension and Pre-eclampsia",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-7-gestational-hypertension-and-pre-eclampsia.pdf",
+  "aliases": [
+   "preeclampsia",
+   "pre eclampsia",
+   "pih",
+   "pregnancy induced hypertension",
+   "gestational hypertension",
+   "تسمم الحمل",
+   "ارتفاع ضغط الحمل"
+  ]
+ },
+ {
+  "id": "15.8",
+  "title": "Eclampsia",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-8-eclampsia.pdf",
+  "aliases": [
+   "eclampsia",
+   "الارتعاج"
+  ]
+ },
+ {
+  "id": "15.9",
+  "title": "HELLP Syndrome",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-9-hellp-syndrome.pdf",
+  "aliases": [
+   "hellp"
+  ]
+ },
+ {
+  "id": "15.10",
+  "title": "Gestational Diabetes",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-10-gestational-diabetes.pdf",
+  "aliases": [
+   "gdm",
+   "gestational diabetes",
+   "diabetes in pregnancy",
+   "سكري الحمل"
+  ]
+ },
+ {
+  "id": "15.11",
+  "title": "Anemia in Pregnancy",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-11-anemia-in-pregnancy.pdf",
+  "aliases": [
+   "anemia in pregnancy",
+   "anaemia in pregnancy",
+   "فقر الدم في الحمل"
+  ]
+ },
+ {
+  "id": "15.12",
+  "title": "Preterm Labor",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-12-preterm-labor.pdf",
+  "aliases": [
+   "preterm labour",
+   "preterm labor",
+   "premature labor",
+   "الولادة المبكرة"
+  ]
+ },
+ {
+  "id": "15.13",
+  "title": "Premature Rupture of Membranes",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-13-premature-rupture-of-membranes.pdf",
+  "aliases": [
+   "prom",
+   "pprom",
+   "ruptured membranes",
+   "rupture of membranes",
+   "تمزق الاغشية"
+  ]
+ },
+ {
+  "id": "15.14",
+  "title": "Normal Labor and Birth",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-14-normal-labor-and-birth.pdf",
+  "aliases": [
+   "labor",
+   "labour",
+   "normal delivery",
+   "nvd",
+   "svd",
+   "delivery",
+   "childbirth",
+   "الولادة",
+   "الولادة الطبيعية",
+   "المخاض"
+  ]
+ },
+ {
+  "id": "15.15",
+  "title": "Induction of Labor",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-15-induction-of-labor.pdf",
+  "aliases": [
+   "induction",
+   "induction of labour",
+   "iol",
+   "oxytocin",
+   "تحريض الولادة",
+   "الطلق الصناعي"
+  ]
+ },
+ {
+  "id": "15.16",
+  "title": "Cesarean Section",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-16-cesarean-section.pdf",
+  "aliases": [
+   "c section",
+   "csection",
+   "cs",
+   "caesarean",
+   "caesarean section",
+   "lscs",
+   "cesarean",
+   "الولادة القيصرية",
+   "قيصرية"
+  ]
+ },
+ {
+  "id": "15.17",
+  "title": "Normal Postpartum Care",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-17-normal-postpartum-care.pdf",
+  "aliases": [
+   "postpartum",
+   "postnatal",
+   "puerperium",
+   "ما بعد الولادة",
+   "النفاس"
+  ]
+ },
+ {
+  "id": "15.18",
+  "title": "Postpartum Hemorrhage",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-18-postpartum-hemorrhage.pdf",
+  "aliases": [
+   "pph",
+   "postpartum haemorrhage",
+   "postpartum bleeding",
+   "نزف ما بعد الولادة"
+  ]
+ },
+ {
+  "id": "15.19",
+  "title": "Puerperal Infection",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-19-puerperal-infection.pdf",
+  "aliases": [
+   "puerperal sepsis",
+   "endometritis",
+   "حمى النفاس"
+  ]
+ },
+ {
+  "id": "15.20",
+  "title": "Mastitis",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-20-mastitis.pdf",
+  "aliases": [
+   "mastitis",
+   "breast infection",
+   "التهاب الثدي"
+  ]
+ },
+ {
+  "id": "15.21",
+  "title": "Postpartum Depression",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-21-postpartum-depression.pdf",
+  "aliases": [
+   "postpartum depression",
+   "postnatal depression",
+   "ppd",
+   "اكتئاب ما بعد الولادة"
+  ]
+ },
+ {
+  "id": "15.22",
+  "title": "Breastfeeding Support",
+  "part": 15,
+  "part_title": "Maternity Care Plans",
+  "file": "15-22-breastfeeding-support.pdf",
+  "aliases": [
+   "breastfeeding",
+   "breast feeding",
+   "lactation",
+   "latch",
+   "الرضاعة الطبيعية"
+  ]
+ },
+ {
+  "id": "16.1",
+  "title": "Normal Newborn",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-1-normal-newborn.pdf",
+  "aliases": [
+   "newborn",
+   "neonate",
+   "normal newborn",
+   "baby",
+   "المولود الجديد",
+   "حديث الولادة"
+  ]
+ },
+ {
+  "id": "16.2",
+  "title": "Preterm and Low Birth Weight Infant",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-2-preterm-and-low-birth-weight-infant.pdf",
+  "aliases": [
+   "preterm baby",
+   "premature baby",
+   "premature infant",
+   "lbw",
+   "low birth weight",
+   "الخديج",
+   "الطفل الخديج"
+  ]
+ },
+ {
+  "id": "16.3",
+  "title": "Neonatal Jaundice and Phototherapy",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-3-neonatal-jaundice-and-phototherapy.pdf",
+  "aliases": [
+   "neonatal jaundice",
+   "phototherapy",
+   "hyperbilirubinemia",
+   "newborn jaundice",
+   "يرقان الوليد",
+   "ابو صفار"
+  ]
+ },
+ {
+  "id": "16.4",
+  "title": "Respiratory Distress Syndrome",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-4-respiratory-distress-syndrome.pdf",
+  "aliases": [
+   "rds",
+   "hyaline membrane disease",
+   "hmd",
+   "neonatal rds",
+   "متلازمة الضائقة التنفسية"
+  ]
+ },
+ {
+  "id": "16.5",
+  "title": "Neonatal Sepsis",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-5-neonatal-sepsis.pdf",
+  "aliases": [
+   "neonatal sepsis",
+   "newborn sepsis",
+   "انتان الوليد"
+  ]
+ },
+ {
+  "id": "16.6",
+  "title": "Birth Asphyxia",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-6-birth-asphyxia.pdf",
+  "aliases": [
+   "birth asphyxia",
+   "hie",
+   "perinatal asphyxia",
+   "اختناق الوليد"
+  ]
+ },
+ {
+  "id": "16.7",
+  "title": "Infant of a Diabetic Mother",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-7-infant-of-a-diabetic-mother.pdf",
+  "aliases": [
+   "idm",
+   "infant of diabetic mother",
+   "macrosomia",
+   "طفل الام السكرية"
+  ]
+ },
+ {
+  "id": "16.8",
+  "title": "Neonatal Hypothermia",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-8-neonatal-hypothermia.pdf",
+  "aliases": [
+   "neonatal hypothermia",
+   "cold baby",
+   "انخفاض حرارة الوليد"
+  ]
+ },
+ {
+  "id": "16.9",
+  "title": "Cleft Lip and Palate",
+  "part": 16,
+  "part_title": "Newborn Care Plans",
+  "file": "16-9-cleft-lip-and-palate.pdf",
+  "aliases": [
+   "cleft lip",
+   "cleft palate",
+   "الشفة الارنبية",
+   "شق الحنك"
+  ]
+ },
+ {
+  "id": "17.1",
+  "title": "Bronchiolitis",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-1-bronchiolitis.pdf",
+  "aliases": [
+   "bronchiolitis",
+   "rsv",
+   "التهاب القصيبات"
+  ]
+ },
+ {
+  "id": "17.2",
+  "title": "Croup (Laryngotracheobronchitis)",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-2-croup-laryngotracheobronchitis.pdf",
+  "aliases": [
+   "croup",
+   "ltb",
+   "laryngotracheobronchitis",
+   "الخانوق"
+  ]
+ },
+ {
+  "id": "17.3",
+  "title": "Pneumonia in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-3-pneumonia-in-children.pdf",
+  "aliases": [
+   "pediatric pneumonia",
+   "child pneumonia",
+   "paediatric pneumonia",
+   "ذات الرئة عند الاطفال"
+  ]
+ },
+ {
+  "id": "17.4",
+  "title": "Asthma in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-4-asthma-in-children.pdf",
+  "aliases": [
+   "pediatric asthma",
+   "childhood asthma",
+   "child asthma",
+   "ربو الاطفال"
+  ]
+ },
+ {
+  "id": "17.5",
+  "title": "Gastroenteritis and Dehydration",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-5-gastroenteritis-and-dehydration.pdf",
+  "aliases": [
+   "gastroenteritis",
+   "age",
+   "dehydration in children",
+   "diarrhea in children",
+   "التهاب المعدة والامعاء",
+   "اسهال الاطفال"
+  ]
+ },
+ {
+  "id": "17.6",
+  "title": "Malnutrition in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-6-malnutrition-in-children.pdf",
+  "aliases": [
+   "sam",
+   "pediatric malnutrition",
+   "kwashiorkor",
+   "marasmus",
+   "سوء تغذية الاطفال"
+  ]
+ },
+ {
+  "id": "17.7",
+  "title": "Febrile Seizures",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-7-febrile-seizures.pdf",
+  "aliases": [
+   "febrile seizure",
+   "febrile convulsion",
+   "febrile fits",
+   "اختلاج حروري",
+   "التشنج الحراري"
+  ]
+ },
+ {
+  "id": "17.8",
+  "title": "Meningitis in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-8-meningitis-in-children.pdf",
+  "aliases": [
+   "pediatric meningitis",
+   "child meningitis",
+   "التهاب السحايا عند الاطفال"
+  ]
+ },
+ {
+  "id": "17.9",
+  "title": "Hydrocephalus and VP Shunt",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-9-hydrocephalus-and-vp-shunt.pdf",
+  "aliases": [
+   "hydrocephalus",
+   "vp shunt",
+   "shunt",
+   "استسقاء الراس"
+  ]
+ },
+ {
+  "id": "17.10",
+  "title": "Congenital Heart Disease (VSD and Tetralogy of Fallot)",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-10-congenital-heart-disease-vsd-and-tetralogy-of-fallot.pdf",
+  "aliases": [
+   "chd",
+   "congenital heart disease",
+   "vsd",
+   "tof",
+   "tetralogy",
+   "fallot",
+   "tet spell",
+   "عيوب القلب الخلقية"
+  ]
+ },
+ {
+  "id": "17.11",
+  "title": "Rheumatic Fever",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-11-rheumatic-fever.pdf",
+  "aliases": [
+   "rheumatic fever",
+   "الحمى الرثوية"
+  ]
+ },
+ {
+  "id": "17.12",
+  "title": "Nephrotic Syndrome in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-12-nephrotic-syndrome-in-children.pdf",
+  "aliases": [
+   "nephrotic",
+   "nephrotic syndrome",
+   "المتلازمة الكلوية",
+   "المتلازمة الكلائية"
+  ]
+ },
+ {
+  "id": "17.13",
+  "title": "Acute Glomerulonephritis in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-13-acute-glomerulonephritis-in-children.pdf",
+  "aliases": [
+   "pediatric glomerulonephritis",
+   "psgn",
+   "post streptococcal glomerulonephritis"
+  ]
+ },
+ {
+  "id": "17.14",
+  "title": "Type 1 Diabetes in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-14-type-1-diabetes-in-children.pdf",
+  "aliases": [
+   "pediatric diabetes",
+   "childhood diabetes",
+   "juvenile diabetes",
+   "سكري الاطفال"
+  ]
+ },
+ {
+  "id": "17.15",
+  "title": "Thalassemia Major in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-15-thalassemia-major-in-children.pdf",
+  "aliases": [
+   "thalassemia major",
+   "beta thalassemia",
+   "pediatric thalassemia",
+   "ثلاسيميا الاطفال"
+  ]
+ },
+ {
+  "id": "17.16",
+  "title": "Acute Lymphoblastic Leukemia in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-16-acute-lymphoblastic-leukemia-in-children.pdf",
+  "aliases": [
+   "all",
+   "childhood leukemia",
+   "pediatric leukemia",
+   "لوكيميا الاطفال"
+  ]
+ },
+ {
+  "id": "17.17",
+  "title": "Burns in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-17-burns-in-children.pdf",
+  "aliases": [
+   "pediatric burns",
+   "scalds",
+   "child burns",
+   "حروق الاطفال"
+  ]
+ },
+ {
+  "id": "17.18",
+  "title": "Accidental Poisoning in Children",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-18-accidental-poisoning-in-children.pdf",
+  "aliases": [
+   "child poisoning",
+   "pediatric poisoning",
+   "تسمم الاطفال"
+  ]
+ },
+ {
+  "id": "17.19",
+  "title": "Pyloric Stenosis",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-19-pyloric-stenosis.pdf",
+  "aliases": [
+   "pyloric stenosis",
+   "pyloromyotomy",
+   "تضيق البواب"
+  ]
+ },
+ {
+  "id": "17.20",
+  "title": "Intussusception",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-20-intussusception.pdf",
+  "aliases": [
+   "intussusception",
+   "الانغلاف المعوي"
+  ]
+ },
+ {
+  "id": "17.21",
+  "title": "Hirschsprung's Disease",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-21-hirschsprungs-disease.pdf",
+  "aliases": [
+   "hirschsprung",
+   "hirschsprungs",
+   "megacolon",
+   "داء هيرشسبرونغ"
+  ]
+ },
+ {
+  "id": "17.22",
+  "title": "Hypospadias Repair",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-22-hypospadias-repair.pdf",
+  "aliases": [
+   "hypospadias",
+   "الاحليل التحتاني"
+  ]
+ },
+ {
+  "id": "17.23",
+  "title": "Cerebral Palsy",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-23-cerebral-palsy.pdf",
+  "aliases": [
+   "cp",
+   "cerebral palsy",
+   "الشلل الدماغي"
+  ]
+ },
+ {
+  "id": "17.24",
+  "title": "Down Syndrome",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-24-down-syndrome.pdf",
+  "aliases": [
+   "down syndrome",
+   "trisomy 21",
+   "downs",
+   "متلازمة داون"
+  ]
+ },
+ {
+  "id": "17.25",
+  "title": "Well-Child Care and Immunization",
+  "part": 17,
+  "part_title": "Pediatric Care Plans",
+  "file": "17-25-well-child-care-and-immunization.pdf",
+  "aliases": [
+   "immunization",
+   "immunisation",
+   "vaccination",
+   "vaccines",
+   "well child",
+   "اللقاحات",
+   "التطعيم"
+  ]
+ },
+ {
+  "id": "18.1",
+  "title": "Generalized Anxiety Disorder",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-1-generalized-anxiety-disorder.pdf",
+  "aliases": [
+   "gad",
+   "generalised anxiety",
+   "anxiety disorder",
+   "اضطراب القلق العام"
+  ]
+ },
+ {
+  "id": "18.2",
+  "title": "Panic Disorder",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-2-panic-disorder.pdf",
+  "aliases": [
+   "panic",
+   "panic attack",
+   "panic attacks",
+   "نوبات الهلع"
+  ]
+ },
+ {
+  "id": "18.3",
+  "title": "Obsessive-Compulsive Disorder",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-3-obsessive-compulsive-disorder.pdf",
+  "aliases": [
+   "ocd",
+   "obsessive compulsive",
+   "الوسواس القهري"
+  ]
+ },
+ {
+  "id": "18.4",
+  "title": "Post-Traumatic Stress Disorder",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-4-post-traumatic-stress-disorder.pdf",
+  "aliases": [
+   "ptsd",
+   "trauma",
+   "اضطراب ما بعد الصدمة"
+  ]
+ },
+ {
+  "id": "18.5",
+  "title": "Major Depressive Disorder",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-5-major-depressive-disorder.pdf",
+  "aliases": [
+   "depression",
+   "mdd",
+   "major depression",
+   "الاكتئاب"
+  ]
+ },
+ {
+  "id": "18.6",
+  "title": "Bipolar Disorder (Manic Episode)",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-6-bipolar-disorder-manic-episode.pdf",
+  "aliases": [
+   "bipolar",
+   "mania",
+   "manic",
+   "الاضطراب ثنائي القطب",
+   "الهوس"
+  ]
+ },
+ {
+  "id": "18.7",
+  "title": "Schizophrenia",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-7-schizophrenia.pdf",
+  "aliases": [
+   "schizophrenia",
+   "psychosis",
+   "hallucinations",
+   "الفصام",
+   "الشيزوفرينيا"
+  ]
+ },
+ {
+  "id": "18.8",
+  "title": "Suicide Risk",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-8-suicide-risk.pdf",
+  "aliases": [
+   "suicide",
+   "suicidal",
+   "الانتحار"
+  ]
+ },
+ {
+  "id": "18.9",
+  "title": "Aggressive Behaviour",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-9-aggressive-behaviour.pdf",
+  "aliases": [
+   "aggression",
+   "violence",
+   "aggressive patient",
+   "agitation",
+   "العدوانية"
+  ]
+ },
+ {
+  "id": "18.10",
+  "title": "Opioid and Drug Withdrawal",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-10-opioid-and-drug-withdrawal.pdf",
+  "aliases": [
+   "opioid withdrawal",
+   "drug withdrawal",
+   "addiction",
+   "substance withdrawal",
+   "انسحاب المخدرات",
+   "الادمان"
+  ]
+ },
+ {
+  "id": "18.11",
+  "title": "Alcohol Withdrawal",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-11-alcohol-withdrawal.pdf",
+  "aliases": [
+   "alcohol withdrawal",
+   "delirium tremens",
+   "dts",
+   "انسحاب الكحول"
+  ]
+ },
+ {
+  "id": "18.12",
+  "title": "Eating Disorders",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-12-eating-disorders.pdf",
+  "aliases": [
+   "anorexia",
+   "anorexia nervosa",
+   "bulimia",
+   "eating disorder",
+   "اضطرابات الاكل",
+   "فقدان الشهية العصبي"
+  ]
+ },
+ {
+  "id": "18.13",
+  "title": "Borderline Personality Disorder",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-13-borderline-personality-disorder.pdf",
+  "aliases": [
+   "bpd",
+   "borderline",
+   "personality disorder",
+   "اضطراب الشخصية الحدية"
+  ]
+ },
+ {
+  "id": "18.14",
+  "title": "Electroconvulsive Therapy (ECT)",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-14-electroconvulsive-therapy-ect.pdf",
+  "aliases": [
+   "ect",
+   "electroconvulsive",
+   "shock therapy",
+   "العلاج بالصدمات الكهربائية"
+  ]
+ },
+ {
+  "id": "18.15",
+  "title": "ADHD and Autism Spectrum Disorder in Children",
+  "part": 18,
+  "part_title": "Mental Health Care Plans",
+  "file": "18-15-adhd-and-autism-spectrum-disorder-in-children.pdf",
+  "aliases": [
+   "adhd",
+   "autism",
+   "asd",
+   "hyperactivity",
+   "التوحد",
+   "فرط الحركة"
+  ]
+ },
+ {
+  "id": "19.1",
+  "title": "Home Care After Discharge",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-1-home-care-after-discharge.pdf",
+  "aliases": [
+   "home care",
+   "home visit",
+   "الرعاية المنزلية"
+  ]
+ },
+ {
+  "id": "19.2",
+  "title": "Family Health Assessment",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-2-family-health-assessment.pdf",
+  "aliases": [
+   "family health",
+   "family assessment",
+   "صحة الاسرة"
+  ]
+ },
+ {
+  "id": "19.3",
+  "title": "School Health",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-3-school-health.pdf",
+  "aliases": [
+   "school health",
+   "الصحة المدرسية"
+  ]
+ },
+ {
+  "id": "19.4",
+  "title": "Occupational Health",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-4-occupational-health.pdf",
+  "aliases": [
+   "occupational health",
+   "workplace health",
+   "الصحة المهنية"
+  ]
+ },
+ {
+  "id": "19.5",
+  "title": "Communicable Disease Control",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-5-communicable-disease-control.pdf",
+  "aliases": [
+   "communicable disease",
+   "infectious disease control",
+   "outbreak",
+   "الامراض المعدية",
+   "الامراض الانتقالية"
+  ]
+ },
+ {
+  "id": "19.6",
+  "title": "Chronic Disease Management in the Community",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-6-chronic-disease-management-in-the-community.pdf",
+  "aliases": [
+   "chronic disease",
+   "ncd",
+   "community chronic disease",
+   "الامراض المزمنة"
+  ]
+ },
+ {
+  "id": "19.7",
+  "title": "Disaster Nursing",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-7-disaster-nursing.pdf",
+  "aliases": [
+   "disaster",
+   "disaster nursing",
+   "mass casualty",
+   "تمريض الكوارث",
+   "الكوارث"
+  ]
+ },
+ {
+  "id": "19.8",
+  "title": "Falls in Older Adults at Home",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-8-falls-in-older-adults-at-home.pdf",
+  "aliases": [
+   "elderly falls",
+   "falls at home",
+   "geriatric falls",
+   "سقوط كبار السن"
+  ]
+ },
+ {
+  "id": "19.9",
+  "title": "Polypharmacy in Older Adults",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-9-polypharmacy-in-older-adults.pdf",
+  "aliases": [
+   "polypharmacy",
+   "many medications",
+   "تعدد الادوية"
+  ]
+ },
+ {
+  "id": "19.10",
+  "title": "Cognitive Decline in Older Adults at Home",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-10-cognitive-decline-in-older-adults-at-home.pdf",
+  "aliases": [
+   "cognitive decline",
+   "memory loss elderly",
+   "التدهور المعرفي"
+  ]
+ },
+ {
+  "id": "19.11",
+  "title": "Incontinence in Older Adults at Home",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-11-incontinence-in-older-adults-at-home.pdf",
+  "aliases": [
+   "elderly incontinence",
+   "geriatric incontinence",
+   "سلس البول عند كبار السن"
+  ]
+ },
+ {
+  "id": "19.12",
+  "title": "Caregiver Role Strain",
+  "part": 19,
+  "part_title": "Community and Older Adult Care Plans",
+  "file": "19-12-caregiver-role-strain.pdf",
+  "aliases": [
+   "caregiver strain",
+   "caregiver burden",
+   "caregiver burnout",
+   "carer stress",
+   "اجهاد مقدم الرعاية"
+  ]
+ }
+]
