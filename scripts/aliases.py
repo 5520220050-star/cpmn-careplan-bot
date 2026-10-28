@@ -9,8 +9,8 @@ ALIASES = {
 "2.7": ["bed sore", "bedsore", "pressure ulcer", "decubitus", "pressure sore", "قرحة الفراش", "قرح الفراش"],
 "2.8": ["isolation", "infection control", "contact precautions", "MRSA", "مكافحة العدوى", "العزل"],
 "2.9": ["pyrexia", "hyperthermia", "high temperature", "fever", "الحمى", "حمى", "ارتفاع الحرارة", "سخونة"],
-"2.10": ["dehydration", "hypovolemia", "fluid deficit", "fluid loss", "الجفاف", "نقص السوائل"],
-"2.11": ["fluid overload", "hypervolemia", "edema", "oedema", "زيادة السوائل", "وذمة"],
+"2.10": ["deficient fluid volume", "inadequate fluid volume", "fluid volume deficit", "dehydration", "hypovolemia", "fluid deficit", "fluid loss", "الجفاف", "نقص السوائل"],
+"2.11": ["excess fluid volume", "fluid volume excess", "fluid overload", "hypervolemia", "edema", "oedema", "زيادة السوائل", "وذمة"],
 "2.12": ["hypokalemia", "hyperkalemia", "hyponatremia", "hypernatremia", "potassium", "sodium", "electrolytes", "الاملاح", "الشوارد"],
 "2.13": ["acidosis", "alkalosis", "abg", "acid base", "respiratory acidosis", "metabolic acidosis", "الحماض"],
 "2.14": ["transfusion", "blood transfusion", "transfusion reaction", "نقل الدم"],
@@ -283,5 +283,5 @@ ALIASES = {
 "19.9": ["polypharmacy", "many medications", "تعدد الادوية"],
 "19.10": ["cognitive decline", "memory loss elderly", "التدهور المعرفي"],
 "19.11": ["elderly incontinence", "geriatric incontinence", "سلس البول عند كبار السن"],
-"19.12": ["caregiver strain", "caregiver burden", "caregiver burnout", "carer stress", "اجهاد مقدم الرعاية"],
+"19.12": ["caregiver role strain", "excessive caregiving burden", "caregiver strain", "caregiver burden", "caregiver burnout", "carer stress", "اجهاد مقدم الرعاية"],
 }
