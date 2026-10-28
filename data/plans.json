@@ -133,11 +133,14 @@
  },
  {
   "id": "2.10",
-  "title": "Deficient Fluid Volume",
+  "title": "Dehydration and Hypovolemia",
   "part": 2,
   "part_title": "General Care Plans",
-  "file": "2-10-deficient-fluid-volume.pdf",
+  "file": "2-10-dehydration-and-hypovolemia.pdf",
   "aliases": [
+   "deficient fluid volume",
+   "inadequate fluid volume",
+   "fluid volume deficit",
    "dehydration",
    "hypovolemia",
    "fluid deficit",
@@ -148,11 +151,13 @@
  },
  {
   "id": "2.11",
-  "title": "Excess Fluid Volume",
+  "title": "Excessive Fluid Volume",
   "part": 2,
   "part_title": "General Care Plans",
-  "file": "2-11-excess-fluid-volume.pdf",
+  "file": "2-11-excessive-fluid-volume.pdf",
   "aliases": [
+   "excess fluid volume",
+   "fluid volume excess",
    "fluid overload",
    "hypervolemia",
    "edema",
@@ -945,10 +950,10 @@
  },
  {
   "id": "5.6",
-  "title": "Brain Tumour",
+  "title": "Brain Tumor",
   "part": 5,
   "part_title": "Neurological Care Plans",
-  "file": "5-6-brain-tumour.pdf",
+  "file": "5-6-brain-tumor.pdf",
   "aliases": [
    "brain tumor",
    "brain tumour",
@@ -3558,10 +3563,10 @@
  },
  {
   "id": "18.9",
-  "title": "Aggressive Behaviour",
+  "title": "Aggressive Behavior",
   "part": 18,
   "part_title": "Mental Health Care Plans",
-  "file": "18-9-aggressive-behaviour.pdf",
+  "file": "18-9-aggressive-behavior.pdf",
   "aliases": [
    "aggression",
    "violence",
@@ -3793,11 +3798,13 @@
  },
  {
   "id": "19.12",
-  "title": "Caregiver Role Strain",
+  "title": "Caregiver Burden",
   "part": 19,
   "part_title": "Community and Older Adult Care Plans",
-  "file": "19-12-caregiver-role-strain.pdf",
+  "file": "19-12-caregiver-burden.pdf",
   "aliases": [
+   "caregiver role strain",
+   "excessive caregiving burden",
    "caregiver strain",
    "caregiver burden",
    "caregiver burnout",

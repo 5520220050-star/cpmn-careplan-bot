@@ -95,7 +95,7 @@ def build(plan, path, slug_url=""):
     M = 26
     c = canvas.Canvas(path, pagesize=(W, H))
     c.setTitle(f"{plan['id']} {plan['title']} – CPMN Care Plan")
-    c.setAuthor("Jwad Waadallah Basheer")
+    c.setAuthor("Jawad Waadallah Basheer")
     c.setSubject("CPMN: CarePlanMaster for Nurses")
 
     # header band
@@ -149,7 +149,7 @@ def build(plan, path, slug_url=""):
     c.setFont("DVI", 7); c.setFillColor(MUTED)
     c.drawString(M, 15, "Typical presentation only. Adapt diagnoses, outcomes and interventions to your patient, the physician's orders and hospital policy. Labels follow NANDA-I.")
     c.setFont("DV", 7)
-    c.drawRightString(W - M, 15, "Jwad Waadallah Basheer · College of Nursing, University of Mosul")
+    c.drawRightString(W - M, 15, "Jawad Waadallah Basheer · College of Nursing, University of Mosul")
     c.showPage(); c.save()
     return fs
 

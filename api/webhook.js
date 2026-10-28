@@ -66,8 +66,8 @@ async function onText(msg, req) {
   if (cmd === "/about") {
     return call("sendMessage", {
       chat_id: chatId, parse_mode: "HTML",
-      text: "<b>CPMN: CarePlanMaster for Nurses</b>\nJwad Waadallah Basheer\nCollege of Nursing, University of Mosul\n\n" +
-        `${PLANS.length} care plans. Plans describe the typical patient; adapt them to your patient, the physician's orders and hospital policy.`,
+      text: "<b>CPMN: CarePlanMaster for Nurses</b>\n\nJawad Waadallah Basheer\nCollege of Nursing, University of Mosul\n\nAmeer Ezat Hadi\nCollege of Nursing, University of Kufa\n\n" +
+        `${PLANS.length} care plans, NANDA-I 2024–2026 terminology. Plans describe the typical patient; adapt them to your patient, the physician's orders and hospital policy.`,
     });
   }
   const query = text.startsWith("/") ? text.slice(1).replace(/_/g, " ") : text;
