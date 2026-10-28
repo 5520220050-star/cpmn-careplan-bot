@@ -17,7 +17,9 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 from aliases import ALIASES
 
-OUT_DIR = os.path.join(ROOT, "public", "pdfs")
+# Telegram caches files by URL: when the PDFs change, bump this folder
+# (v2 -> v3) here AND PDF_DIR in api/webhook.js so users get the new copies.
+OUT_DIR = os.path.join(ROOT, "public", "pdfs", "v2")
 INDEX = os.path.join(ROOT, "data", "plans.json")
 AUTHORS = "Jawad Waadallah Basheer; Ameer Ezat Hadi"
 OLD_NOTE = "Full entries are listed in the References section."
