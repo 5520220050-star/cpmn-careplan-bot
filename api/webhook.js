@@ -9,6 +9,10 @@ for (const p of PLANS) {
 
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const byId = (id) => PLANS.find((p) => p.id === id);
+
+// Telegram caches a file by its URL, so a new set of PDFs must live under a
+// new folder (v2, v3, ...) or users keep getting the old cached copies.
+const PDF_DIR = "pdfs/v2";
 const btn = (p) => [{ text: `${p.id}  ${p.title}`, callback_data: `p:${p.id}` }];
 
 function baseUrl(req) {
@@ -27,7 +31,7 @@ const WELCOME =
 
 async function sendPlan(chatId, plan, req, related = []) {
   await call("sendChatAction", { chat_id: chatId, action: "upload_document" });
-  const url = `${baseUrl(req)}/pdfs/${plan.file}`;
+  const url = `${baseUrl(req)}/${PDF_DIR}/${plan.file}`;
   const caption = `📄 <b>${esc(plan.id)}  ${esc(plan.title)}</b>\nPart ${plan.part} · ${esc(plan.part_title)}`;
   const markup = related.length
     ? { inline_keyboard: [[{ text: "Related care plans:", callback_data: "noop" }], ...related.map(btn)] }
